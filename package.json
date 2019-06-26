@@ -1,0 +1,25 @@
+{
+  "name": "gatsby",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "gatsby": "latest",
+    "gatsby-plugin-layout": "^1.1.0",
+    "gatsby-plugin-material-ui": "latest",
+    "gatsby-plugin-nprogress": "^2.1.0",
+    "gatsby-plugin-react-helmet": "latest",
+    "gatsby-plugin-transition-link": "^1.12.4",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest",
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  }
+}
